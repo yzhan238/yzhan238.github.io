@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* Text Classification Using Label Names Only: A Language Model Self-Training Approach  
+Yu Meng, **Yunyi Zhang**, Jiaxin Huang, Chenyan Xiong, Heng Ji, Chao Zhang, Jiawei Han.  
+Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020
+
 * Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding
 \[[PDF](https://arxiv.org/abs/2007.09536)\]
 \[[Code](https://github.com/yumeng5/JoSH)\]  
