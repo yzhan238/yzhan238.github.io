@@ -12,7 +12,7 @@ I am a Master student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data
 
 News
 ======
-* \[**2020.09**\] One paper on Weakly-Supervised Text Classification is accepted by **EMNLP 2020**!
+* \[**2020.09**\] One paper on [Weakly-Supervised Text Classification](https://arxiv.org/abs/2010.07245) is accepted by **EMNLP 2020**!
 
 Education
 ======
