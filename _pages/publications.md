@@ -8,7 +8,9 @@ author_profile: true
 {% include base_path %}  
 (\*=Equal Contribution)
 
-* Text Classification Using Label Names Only: A Language Model Self-Training Approach  
+* Text Classification Using Label Names Only: A Language Model Self-Training Approach
+\[[PDF](https://arxiv.org/abs/2010.07245)\]
+\[[Code](https://github.com/yumeng5/LOTClass)\]  
 Yu Meng, **Yunyi Zhang**, Jiaxin Huang, Chenyan Xiong, Heng Ji, Chao Zhang, Jiawei Han.  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020
 
@@ -18,7 +20,9 @@ Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020
 Yu Meng\*, **Yunyi Zhang**\*, Jiaxin Huang, Yu Zhang, Chao Zhang, Jiawei Han.  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2020.
 
-* CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring  
+* CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring
+\[[PDF](https://arxiv.org/abs/2010.06714)\]
+\[[Code](https://github.com/teapot123/CoRel)\]  
 Jiaxin Huang, Yiqing Xie, Yu Meng, **Yunyi Zhang**, Jiawei Han.  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2020.
 
