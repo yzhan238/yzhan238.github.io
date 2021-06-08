@@ -8,11 +8,15 @@ author_profile: true
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* Scaling Deep Contrastive Learning Batch Size under Memory Limited Setup  
+Luyu Gao, **Yunyi Zhang**, Jiawei Han, Jamie Callan.  
+The 6th Workshop on Representation Learning for NLP (**RepL4NLP@ACL**), 2021.
+
 * Text Classification Using Label Names Only: A Language Model Self-Training Approach
 \[[PDF](https://arxiv.org/abs/2010.07245)\]
 \[[Code](https://github.com/yumeng5/LOTClass)\]  
 Yu Meng, **Yunyi Zhang**, Jiaxin Huang, Chenyan Xiong, Heng Ji, Chao Zhang, Jiawei Han.  
-Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020
+Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2020.
 
 * Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding
 \[[PDF](https://arxiv.org/abs/2007.09536)\]
