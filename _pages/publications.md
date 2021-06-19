@@ -8,7 +8,9 @@ author_profile: true
 {% include base_path %}  
 (\*=Equal Contribution)
 
-* Scaling Deep Contrastive Learning Batch Size under Memory Limited Setup  
+* Scaling Deep Contrastive Learning Batch Size under Memory Limited Setup
+\[[PDF](https://arxiv.org/abs/2101.06983)\]
+\[Code: [GradCache](https://github.com/luyug/GradCache), [GC-DPR](https://github.com/luyug/GC-DPR)\]  
 Luyu Gao, **Yunyi Zhang**, Jiawei Han, Jamie Callan.  
 The 6th Workshop on Representation Learning for NLP (**RepL4NLP@ACL**), 2021.
 
