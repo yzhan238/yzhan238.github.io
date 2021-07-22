@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data Mining Group ([DMG](http://dm1.cs.uiuc.edu/)) at University of Illinois at Urbana-Champaign (UIUC). I obtained my B.S. at UIUC with a dual degree in Computer Science and Mathematics. My research interests lie in text mining and natural language processing.
+I am a Master student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data Mining Group ([DMG](http://dm1.cs.uiuc.edu/)) at University of Illinois at Urbana-Champaign (UIUC). I obtained my B.S. at UIUC with a dual degree in Computer Science and Mathematics. My research interests lie in text mining and natural language processing. 
 
 News
 ======
+* \[**2021.06**\] One paper on [memory-efficient contrastive learning](https://arxiv.org/abs/2101.06983) is accepted by **RepL4NLP@ACL 2021**!
 * \[**2020.09**\] One paper on [Weakly-Supervised Text Classification](https://arxiv.org/abs/2010.07245) is accepted by **EMNLP 2020**!
 
 Education
