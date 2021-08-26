@@ -12,7 +12,8 @@ I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data 
 
 News
 ======
-* \[**2021.06**\] One paper on [memory-efficient contrastive learning](https://arxiv.org/abs/2101.06983) is accepted by **RepL4NLP@ACL 2021**!
+* \[**2021.08**\] Two papers on [Open-Domain Event Type Induction](https://yzhan238.github.io/) and [Distantly-Supervised NER](https://yzhan238.github.io/) are accepted by **EMNLP 2021**!
+* \[**2021.06**\] One paper on [Memory-Efficient Contrastive Learning](https://arxiv.org/abs/2101.06983) is accepted by **RepL4NLP@ACL 2021**!
 * \[**2020.09**\] One paper on [Weakly-Supervised Text Classification](https://arxiv.org/abs/2010.07245) is accepted by **EMNLP 2020**!
 
 Education
