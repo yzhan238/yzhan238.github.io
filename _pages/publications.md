@@ -8,6 +8,14 @@ author_profile: true
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* Corpus-based Open-Domain Event Type Induction  
+Jiaming Shen, **Yunyi Zhang**, Heng Ji, and Jiawei Han.  
+Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2021.
+
+* Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training  
+Yu Meng, **Yunyi Zhang**, Jiaxin Huang, Xuan Wang, Yu Zhang, Heng Ji and Jiawei Han.  
+Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2021.
+
 * Scaling Deep Contrastive Learning Batch Size under Memory Limited Setup
 \[[PDF](https://arxiv.org/abs/2101.06983)\]
 \[Code: [GradCache](https://github.com/luyug/GradCache), [GC-DPR](https://github.com/luyug/GC-DPR)\]  
