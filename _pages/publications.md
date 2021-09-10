@@ -8,7 +8,9 @@ author_profile: true
 {% include base_path %}  
 (\*=Equal Contribution)
 
-* Corpus-based Open-Domain Event Type Induction  
+* Corpus-based Open-Domain Event Type Induction
+\[[PDF](https://arxiv.org/abs/2109.03322)\]
+\[[Code](https://github.com/mickeystroller/ETypeClus)\]  
 Jiaming Shen, **Yunyi Zhang**, Heng Ji, and Jiawei Han.  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2021.
 
