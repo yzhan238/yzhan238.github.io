@@ -14,7 +14,9 @@ author_profile: true
 Jiaming Shen, **Yunyi Zhang**, Heng Ji, and Jiawei Han.  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2021.
 
-* Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training  
+* Distantly-Supervised Named Entity Recognition with Noise-Robust Learning and Language Model Augmented Self-Training
+\[[PDF](https://arxiv.org/abs/2109.05003)\]
+\[[Code](https://github.com/yumeng5/RoSTER)\]  
 Yu Meng, **Yunyi Zhang**, Jiaxin Huang, Xuan Wang, Yu Zhang, Heng Ji and Jiawei Han.  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2021.
 
