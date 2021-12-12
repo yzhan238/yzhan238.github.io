@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yunyi Zhang"
 title_separator          : "-"
 name                     : &name "Yunyi Zhang"
-description              : &description "Master Student @ UIUC"
+description              : &description "Ph.D. Student @ UIUC"
 url                      : https://yzhan238.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yzhan238/yzhan238.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yunyi Zhang (张云逸)"
   avatar           : "profile.png"
-  bio              : "Master Student @ UIUC"
+  bio              : "Ph.D. Student @ UIUC"
   location         : "Urbana, IL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
