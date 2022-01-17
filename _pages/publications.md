@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* Topic Discovery via Latent Space Clustering of Language Model Embeddings  
+Yu Meng, **Yunyi Zhang**, Jiaxin Huang, Yu Zhang and Jiawei Han.  
+The ACM Web Conference (**WWW**), 2022.
+
 * Corpus-based Open-Domain Event Type Induction
 \[[PDF](https://arxiv.org/abs/2109.03322)\]
 \[[Code](https://github.com/mickeystroller/ETypeClus)\]  
@@ -54,7 +58,7 @@ Annual Meeting of the Association for Computational Linguistics (**ACL**), 2020.
 \[[PDF](https://arxiv.org/abs/2001.10106)\]
 \[[Code](https://github.com/teapot123/SetCoExpan)\]  
 Jiaxin Huang, Yiqing Xie, Yu Meng, Jiaming Shen, **Yunyi Zhang**, Jiawei Han.  
-The Web Conference (**WWW**), 2020.
+The ACM Web Conference (**WWW**), 2020.
 
 * Complexity of Leading Digit Sequences
 \[[PDF](https://arxiv.org/abs/1804.00221)\]  
