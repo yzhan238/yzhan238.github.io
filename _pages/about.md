@@ -12,6 +12,7 @@ I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data 
 
 News
 ======
+* \[**2022.01**\] One paper on [Topic Discovery with Pretrained LM]() is accepted by **WWW 2022**!
 * \[**2021.08**\] Two papers on [Open-Domain Event Type Induction](https://arxiv.org/abs/2109.03322) and [Distantly-Supervised NER](https://arxiv.org/abs/2109.05003) are accepted by **EMNLP 2021**!
 * \[**2021.06**\] One paper on [Memory-Efficient Contrastive Learning](https://arxiv.org/abs/2101.06983) is accepted by **RepL4NLP@ACL 2021**!
 * \[**2020.09**\] One paper on [Weakly-Supervised Text Classification](https://arxiv.org/abs/2010.07245) is accepted by **EMNLP 2020**!
@@ -21,7 +22,8 @@ Education
 * Ph.D. (Current) in Computer Science, University of Illinois Urbana-Champaign  
 Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)
 
-* M.S. (2021) in Computer Science, University of Illinois Urbana-Champaign  
+* M.S. (2021) in Computer Science, University of Illinois Urbana-Champaign
+[[Thesis](https://www.ideals.illinois.edu/handle/2142/113067)]  
 Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)
 
 * B.S. (2019) dual degree in Computer Science and Mathematics, University of Illinois Urbana-Champaign  
