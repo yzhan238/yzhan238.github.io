@@ -8,7 +8,9 @@ author_profile: true
 {% include base_path %}  
 (\*=Equal Contribution)
 
-* Topic Discovery via Latent Space Clustering of Language Model Embeddings  
+* Topic Discovery via Latent Space Clustering of Language Model Representations
+\[[PDF](https://arxiv.org/abs/2202.04582)\]
+\[[Code](https://github.com/yumeng5/TopClus)\]  
 Yu Meng, **Yunyi Zhang**, Jiaxin Huang, Yu Zhang and Jiawei Han.  
 The ACM Web Conference (**WWW**), 2022.
 
