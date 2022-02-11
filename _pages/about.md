@@ -12,7 +12,7 @@ I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data 
 
 News
 ======
-* \[**2022.01**\] One paper on [Topic Discovery with Pretrained LM]() is accepted by **WWW 2022**!
+* \[**2022.01**\] One paper on [Topic Discovery with Pretrained LM](https://arxiv.org/abs/2202.04582) is accepted by **WWW 2022**!
 * \[**2021.08**\] Two papers on [Open-Domain Event Type Induction](https://arxiv.org/abs/2109.03322) and [Distantly-Supervised NER](https://arxiv.org/abs/2109.05003) are accepted by **EMNLP 2021**!
 * \[**2021.06**\] One paper on [Memory-Efficient Contrastive Learning](https://arxiv.org/abs/2101.06983) is accepted by **RepL4NLP@ACL 2021**!
 * \[**2020.09**\] One paper on [Weakly-Supervised Text Classification](https://arxiv.org/abs/2010.07245) is accepted by **EMNLP 2020**!
