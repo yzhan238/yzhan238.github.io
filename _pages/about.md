@@ -12,6 +12,7 @@ I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data 
 
 News
 ======
+* \[**2022.05**\] One paper on [Unsupervised Key Event Detection]() is accepted by **KDD 2022**!
 * \[**2022.04**\] Passed DAIS Qual exam and became a Ph.D. candidate.
 * \[**2022.01**\] One paper on [Topic Discovery with Pretrained LM](https://arxiv.org/abs/2202.04582) is accepted by **WWW 2022**!
 * \[**2021.08**\] Two papers on [Open-Domain Event Type Induction](https://arxiv.org/abs/2109.03322) and [Distantly-Supervised NER](https://arxiv.org/abs/2109.05003) are accepted by **EMNLP 2021**!
