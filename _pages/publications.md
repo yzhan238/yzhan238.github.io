@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts  
+Yu Zhang\*, **Yunyi Zhang**\*, Martin Michalski\*, Yucheng Jiang\*, Yu Meng\*, and Jiawei Han.  
+ACM International Conference on Web Search and Data Mining (**WSDM**), 2023.
+
 * Unsupervised Key Event Detection from Massive Text Corpora
 \[[Paper](https://arxiv.org/abs/2206.04153)\]
 \[[Code](https://github.com/yzhan238/EvMine)\]  
