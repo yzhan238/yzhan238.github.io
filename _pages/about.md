@@ -12,7 +12,7 @@ I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data 
 
 News
 ======
-* \[**2022.10**\] One paper on [Seed-Guided Topic Discovery]() is accepted by **WSDM 2023**!
+* \[**2022.10**\] One paper on [Seed-Guided Topic Discovery](https://arxiv.org/abs/2212.06002) is accepted by **WSDM 2023**!
 * \[**2022.05**\] One paper on [Unsupervised Key Event Detection](https://arxiv.org/abs/2206.04153) is accepted by **KDD 2022**!
 * \[**2022.04**\] Passed DAIS Qual exam and became a Ph.D. candidate.
 * \[**2022.01**\] One paper on [Topic Discovery with Pretrained LM](https://arxiv.org/abs/2202.04582) is accepted by **WWW 2022**!
