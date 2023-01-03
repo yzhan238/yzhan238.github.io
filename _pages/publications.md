@@ -8,7 +8,9 @@ author_profile: true
 {% include base_path %}  
 (\*=Equal Contribution)
 
-* Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts  
+* Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts
+\[[Paper](https://arxiv.org/abs/2212.06002)\]
+\[[Code](https://github.com/yzhan238/SeedTopicMine)\]  
 Yu Zhang\*, **Yunyi Zhang**\*, Martin Michalski\*, Yucheng Jiang\*, Yu Meng\*, and Jiawei Han.  
 ACM International Conference on Web Search and Data Mining (**WSDM**), 2023.
 
