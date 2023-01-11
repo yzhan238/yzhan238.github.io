@@ -14,6 +14,11 @@ author_profile: true
 Yu Zhang\*, **Yunyi Zhang**\*, Martin Michalski\*, Yucheng Jiang\*, Yu Meng\*, and Jiawei Han.  
 ACM International Conference on Web Search and Data Mining (**WSDM**), 2023.
 
+* Entity Set Co-Expansion in StackOverflow
+\[[Paper](https://arxiv.org/abs/2212.02271)\]  
+Yu Zhang\*, **Yunyi Zhang**\*, Yucheng Jiang, Martin Michalski, Yu Deng, Lucian Popa, ChengXiang Zhai, Jiawei Han.  
+Workshop on Knowledge Discovery and Data Mining in IT Operations (**BigData-IT@IEEE BigData**), 2022.
+
 * Unsupervised Key Event Detection from Massive Text Corpora
 \[[Paper](https://arxiv.org/abs/2206.04153)\]
 \[[Code](https://github.com/yzhan238/EvMine)\]  
