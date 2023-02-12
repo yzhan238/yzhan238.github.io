@@ -8,6 +8,14 @@ author_profile: true
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* Unsupervised Event Chain Mining from Multiple Documents  
+Yizhu Jiao, Ming Zhong, Jiaming Shen, **Yunyi Zhang**, Chao Zhang and Jiawei Han.  
+The ACM Web Conference (**WWW**), 2023.
+
+* Mining Structures from Massive Texts by Exploring the Power of Pre-trained Language Models  
+Yu Zhang, **Yunyi Zhang**, and Jiawei Han.  
+The International Conference on Extending Database Technology (**EDBT**), 2023. _(Tutorial)_
+
 * Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts
 \[[Paper](https://arxiv.org/abs/2212.06002)\]
 \[[Code](https://github.com/yzhan238/SeedTopicMine)\]  
