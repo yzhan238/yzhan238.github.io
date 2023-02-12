@@ -12,11 +12,13 @@ I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data 
 
 News
 ======
+* \[**2023.01**\] One paper on [Event Chain Mining]() is accepted by **WWW 2023**!
+* \[**2023.01**\] Our tutorial is accepted by **EBDT 2023**.
 * \[**2022.10**\] One paper on [Seed-Guided Topic Discovery](https://arxiv.org/abs/2212.06002) is accepted by **WSDM 2023**!
 * \[**2022.05**\] One paper on [Unsupervised Key Event Detection](https://arxiv.org/abs/2206.04153) is accepted by **KDD 2022**!
 * \[**2022.04**\] Passed DAIS Qual exam and became a Ph.D. candidate.
 * \[**2022.01**\] One paper on [Topic Discovery with Pretrained LM](https://arxiv.org/abs/2202.04582) is accepted by **WWW 2022**!
-* \[**2021.08**\] Two papers on [Open-Domain Event Type Induction](https://arxiv.org/abs/2109.03322) and [Distantly-Supervised NER](https://arxiv.org/abs/2109.05003) are accepted by **EMNLP 2021**!
+<!-- * \[**2021.08**\] Two papers on [Open-Domain Event Type Induction](https://arxiv.org/abs/2109.03322) and [Distantly-Supervised NER](https://arxiv.org/abs/2109.05003) are accepted by **EMNLP 2021**! -->
 <!-- * \[**2021.06**\] One paper on [Memory-Efficient Contrastive Learning](https://arxiv.org/abs/2101.06983) is accepted by **RepL4NLP@ACL 2021**! -->
 <!-- * \[**2020.09**\] One paper on [Weakly-Supervised Text Classification](https://arxiv.org/abs/2010.07245) is accepted by **EMNLP 2020**! -->
 
