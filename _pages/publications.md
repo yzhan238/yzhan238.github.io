@@ -8,11 +8,16 @@ author_profile: true
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* Unsupervised Story Discovery from Continuous News Streams via Scalable Thematic Embedding  
+Susik Yoon, Dongha Lee, **Yunyi Zhang** and Jiawei Han.  
+ACM SIGIR International Conference on Research and Development in Information Retrieval (**SIGIR**), 2023.
+
 * Unsupervised Event Chain Mining from Multiple Documents  
 Yizhu Jiao, Ming Zhong, Jiaming Shen, **Yunyi Zhang**, Chao Zhang and Jiawei Han.  
 The ACM Web Conference (**WWW**), 2023.
 
-* Mining Structures from Massive Texts by Exploring the Power of Pre-trained Language Models  
+* Mining Structures from Massive Texts by Exploring the Power of Pre-trained Language Models
+\[[Website](https://yuzhimanhua.github.io/tutorials/edbt2023.html)\]  
 Yu Zhang, **Yunyi Zhang**, and Jiawei Han.  
 The International Conference on Extending Database Technology (**EDBT**), 2023. _(Tutorial)_
 
