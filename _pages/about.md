@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data Mining Group ([DMG](http://dm1.cs.uiuc.edu/)) at University of Illinois Urbana-Champaign (UIUC). I obtained my M.S. in Computer Science and B.S. with a dual degree in Computer Science and Mathematics also at UIUC. My research interests lie in text mining and natural language processing. 
+I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data Mining Group ([DMG](http://dm1.cs.uiuc.edu/)) at University of Illinois Urbana-Champaign (UIUC). I obtained my M.S. in Computer Science and B.S. with a dual degree in Computer Science and Mathematics also at UIUC. My research interests lie in text mining, especially for mining structured knowledge from unstructured text data with minimal supervision. 
 
 News
 ======
