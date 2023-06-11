@@ -8,6 +8,14 @@ author_profile: true
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers  
+Yu Zhang, Bowen Jin, Xiusi Chen, Yanzhen Shen, **Yunyi Zhang**, Yu Meng, and Jiawei Han.  
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023.
+
+* Pretrained Language Representations for Text Understanding: A Weakly-Supervised Perspective  
+Yu Meng, Jiaxin Huang, Yu Zhang, **Yunyi Zhang**, and Jiawei Han.  
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023. _(Tutorial)_
+
 * Unsupervised Story Discovery from Continuous News Streams via Scalable Thematic Embedding  
 Susik Yoon, Dongha Lee, **Yunyi Zhang** and Jiawei Han.  
 ACM SIGIR International Conference on Research and Development in Information Retrieval (**SIGIR**), 2023.
