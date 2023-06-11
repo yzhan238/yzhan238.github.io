@@ -12,11 +12,13 @@ I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data 
 
 News
 ======
+* \[**2023.05**\] One paper on [Full-Text Scientific Paper Classification]() is accepted by **KDD 2023**!
+* \[**2023.05**\] Our tutorial on [Pre-trained Language Representations for Text Understanding]() is accepted by **KDD 2023**!
 * \[**2023.04**\] One paper on [Story Discovery from News Streams]() is accepted by **SIGIR 2023**!
-* \[**2023.01**\] One paper on [Event Chain Mining]() is accepted by **WWW 2023**!
-* \[**2023.01**\] [Our tutorial](https://yuzhimanhua.github.io/tutorials/edbt2023.html) is accepted by **EDBT 2023**.
+* \[**2023.01**\] One paper on [Event Chain Mining](https://dl.acm.org/doi/abs/10.1145/3543507.3583295) is accepted by **WWW 2023**!
+* \[**2023.01**\] [Our tutorial](https://yuzhimanhua.github.io/tutorials/edbt2023.html) is accepted by **EDBT 2023**!
 * \[**2022.10**\] One paper on [Seed-Guided Topic Discovery](https://arxiv.org/abs/2212.06002) is accepted by **WSDM 2023**!
-* \[**2022.05**\] One paper on [Unsupervised Key Event Detection](https://arxiv.org/abs/2206.04153) is accepted by **KDD 2022**!
+<!-- * \[**2022.05**\] One paper on [Unsupervised Key Event Detection](https://arxiv.org/abs/2206.04153) is accepted by **KDD 2022**! -->
 <!-- * \[**2022.04**\] Passed DAIS Qual exam and became a Ph.D. candidate. -->
 <!-- * \[**2022.01**\] One paper on [Topic Discovery with Pretrained LM](https://arxiv.org/abs/2202.04582) is accepted by **WWW 2022**! -->
 <!-- * \[**2021.08**\] Two papers on [Open-Domain Event Type Induction](https://arxiv.org/abs/2109.03322) and [Distantly-Supervised NER](https://arxiv.org/abs/2109.05003) are accepted by **EMNLP 2021**! -->
