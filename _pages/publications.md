@@ -20,7 +20,8 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023. _(
 Susik Yoon, Dongha Lee, **Yunyi Zhang** and Jiawei Han.  
 ACM SIGIR International Conference on Research and Development in Information Retrieval (**SIGIR**), 2023.
 
-* Unsupervised Event Chain Mining from Multiple Documents  
+* Unsupervised Event Chain Mining from Multiple Documents
+\[[Paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583295)\]  
 Yizhu Jiao, Ming Zhong, Jiaming Shen, **Yunyi Zhang**, Chao Zhang and Jiawei Han.  
 The ACM Web Conference (**WWW**), 2023.
 
