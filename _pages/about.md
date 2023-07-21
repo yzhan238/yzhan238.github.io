@@ -12,6 +12,7 @@ I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data 
 
 News
 ======
+* \[**2023.06**\] Invited to serve as the Proceedings Chair of **[WSDM 2024](https://www.wsdm-conference.org/2024/)**.
 * \[**2023.05**\] One paper on [Full-Text Scientific Paper Classification]() is accepted by **KDD 2023**!
 * \[**2023.05**\] Our tutorial on [Pre-trained Language Representations for Text Understanding]() is accepted by **KDD 2023**!
 * \[**2023.04**\] One paper on [Story Discovery from News Streams]() is accepted by **SIGIR 2023**!
