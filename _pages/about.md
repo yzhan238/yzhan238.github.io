@@ -13,9 +13,9 @@ I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data 
 News
 ======
 * \[**2023.06**\] Invited to serve as the Proceedings Chair of **[WSDM 2024](https://www.wsdm-conference.org/2024/)**.
-* \[**2023.05**\] One paper on [Full-Text Scientific Paper Classification]() is accepted by **KDD 2023**!
+* \[**2023.05**\] One paper on [Full-Text Scientific Paper Classification](https://arxiv.org/abs/2306.14003) is accepted by **KDD 2023**!
 * \[**2023.05**\] Our tutorial on [Pre-trained Language Representations for Text Understanding]() is accepted by **KDD 2023**!
-* \[**2023.04**\] One paper on [Story Discovery from News Streams]() is accepted by **SIGIR 2023**!
+* \[**2023.04**\] One paper on [Story Discovery from News Streams](https://arxiv.org/abs/2304.04099) is accepted by **SIGIR 2023**!
 * \[**2023.01**\] One paper on [Event Chain Mining](https://dl.acm.org/doi/abs/10.1145/3543507.3583295) is accepted by **WWW 2023**!
 * \[**2023.01**\] [Our tutorial](https://yuzhimanhua.github.io/tutorials/edbt2023.html) is accepted by **EDBT 2023**!
 * \[**2022.10**\] One paper on [Seed-Guided Topic Discovery](https://arxiv.org/abs/2212.06002) is accepted by **WSDM 2023**!
