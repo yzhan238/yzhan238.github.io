@@ -8,7 +8,9 @@ author_profile: true
 {% include base_path %}  
 (\*=Equal Contribution)
 
-* Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers  
+* Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers
+\[[Paper](https://arxiv.org/abs/2306.14003)]
+\[[Code](https://github.com/yuzhimanhua/FUTEX)]  
 Yu Zhang, Bowen Jin, Xiusi Chen, Yanzhen Shen, **Yunyi Zhang**, Yu Meng, and Jiawei Han.  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023.
 
@@ -16,7 +18,9 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023.
 Yu Meng, Jiaxin Huang, Yu Zhang, **Yunyi Zhang**, and Jiawei Han.  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023. _(Tutorial)_
 
-* Unsupervised Story Discovery from Continuous News Streams via Scalable Thematic Embedding  
+* Unsupervised Story Discovery from Continuous News Streams via Scalable Thematic Embedding
+\[[Paper](https://arxiv.org/abs/2304.04099)]
+\[[Code](https://github.com/cliveyn/USTORY)]  
 Susik Yoon, Dongha Lee, **Yunyi Zhang** and Jiawei Han.  
 ACM SIGIR International Conference on Research and Development in Information Retrieval (**SIGIR**), 2023.
 
