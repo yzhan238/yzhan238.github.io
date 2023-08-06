@@ -14,7 +14,8 @@ author_profile: true
 Yu Zhang, Bowen Jin, Xiusi Chen, Yanzhen Shen, **Yunyi Zhang**, Yu Meng, and Jiawei Han.  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023.
 
-* Pretrained Language Representations for Text Understanding: A Weakly-Supervised Perspective  
+* Pretrained Language Representations for Text Understanding: A Weakly-Supervised Perspective
+\[[Website](https://yumeng5.github.io/kdd23-tutorial/)]  
 Yu Meng, Jiaxin Huang, Yu Zhang, **Yunyi Zhang**, and Jiawei Han.  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023. _(Tutorial)_
 
