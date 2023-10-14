@@ -12,6 +12,7 @@ I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data 
 
 News
 ======
+* \[**2023.10**\] One paper on [Weakly-Supervised Text Classification]() is accepted by **EMNLP 2023**!
 * \[**2023.06**\] Invited to serve as the Proceedings Chair of **[WSDM 2024](https://www.wsdm-conference.org/2024/)**.
 * \[**2023.05**\] One paper on [Full-Text Scientific Paper Classification](https://arxiv.org/abs/2306.14003) is accepted by **KDD 2023**!
 * \[**2023.05**\] Our tutorial on [Pre-trained Language Representations for Text Understanding](https://yumeng5.github.io/kdd23-tutorial/) is accepted by **KDD 2023**!
@@ -28,14 +29,14 @@ News
 
 Education
 ======
-* Ph.D. (Current) in Computer Science, University of Illinois Urbana-Champaign  
+* Ph.D. (2021-Current) in Computer Science, University of Illinois Urbana-Champaign  
 Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)
 
-* M.S. (2021) in Computer Science, University of Illinois Urbana-Champaign
+* M.S. (2019-2021) in Computer Science, University of Illinois Urbana-Champaign
 [[Thesis](https://www.ideals.illinois.edu/handle/2142/113067)]  
 Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)
 
-* B.S. (2019) dual degree in Computer Science and Mathematics, University of Illinois Urbana-Champaign  
+* B.S. (2015-2019) dual degree in Computer Science and Mathematics, University of Illinois Urbana-Champaign  
 Graduated with Highest Honor & [Bronze Tablet](https://digital.library.illinois.edu/items/627ca280-baf7-0138-73b5-02d0d7bfd6e4-6#?c=0&m=0&s=0&cv=0&r=0&xywh=-3961%2C-1%2C11914%2C4000)
 
 Contact
