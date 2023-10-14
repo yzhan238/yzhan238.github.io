@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* PIEClass: Weakly-Supervised Text Classification with Prompting and Noise-Robust Iterative Ensemble Training  
+**Yunyi Zhang**, Minhao Jiang, Yu Meng, Yu Zhang, Jiawei Han.  
+Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2023.
+
 * Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers
 \[[Paper](https://arxiv.org/abs/2306.14003)]
 \[[Code](https://github.com/yuzhimanhua/FUTEX)]  
