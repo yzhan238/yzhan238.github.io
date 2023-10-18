@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* Ontology Enrichment for Effective Fine-grained Entity Typing  
+Siru Ouyang, Jiaxin Huang, Pranav Pillai, **Yunyi Zhang**, Yu Zhang, Jiawei Han.  
+[arXiv:2310.07795](https://arxiv.org/abs/2310.07795)
+
 * PIEClass: Weakly-Supervised Text Classification with Prompting and Noise-Robust Iterative Ensemble Training  
 **Yunyi Zhang**, Minhao Jiang, Yu Meng, Yu Zhang, Jiawei Han.  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2023.
