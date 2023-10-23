@@ -12,7 +12,7 @@ I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data 
 
 News
 ======
-* \[**2023.10**\] One paper on [Weakly-Supervised Text Classification]() is accepted by **EMNLP 2023**!
+* \[**2023.10**\] One paper on [Weakly-Supervised Text Classification](https://arxiv.org/abs/2305.13723) is accepted by **EMNLP 2023**!
 * \[**2023.06**\] Invited to serve as the Proceedings Chair of **[WSDM 2024](https://www.wsdm-conference.org/2024/)**.
 * \[**2023.05**\] One paper on [Full-Text Scientific Paper Classification](https://arxiv.org/abs/2306.14003) is accepted by **KDD 2023**!
 * \[**2023.05**\] Our tutorial on [Pre-trained Language Representations for Text Understanding](https://yumeng5.github.io/kdd23-tutorial/) is accepted by **KDD 2023**!
