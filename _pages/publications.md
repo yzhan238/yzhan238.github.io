@@ -12,6 +12,12 @@ author_profile: true
 Siru Ouyang, Jiaxin Huang, Pranav Pillai, **Yunyi Zhang**, Yu Zhang, Jiawei Han.  
 [arXiv:2310.07795](https://arxiv.org/abs/2310.07795)
 
+* Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains
+\[Paper\]
+\[[Code](https://github.com/yuzhimanhua/SEType)\]  
+Yu Zhang\*, **Yunyi Zhang**\*, Yanzhen Shen, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.  
+AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
+
 * PIEClass: Weakly-Supervised Text Classification with Prompting and Noise-Robust Iterative Ensemble Training
 \[[Paper](https://arxiv.org/abs/2305.13723)\]
 \[[Code](https://github.com/yzhan238/PIEClass)\]  
