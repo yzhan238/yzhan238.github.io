@@ -12,6 +12,7 @@ I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data 
 
 News
 ======
+* \[**2023.12**\] One paper on [Seed-Guided Entity Typing]() is accepted by **AAAI 2024**!
 * \[**2023.10**\] One paper on [Weakly-Supervised Text Classification](https://arxiv.org/abs/2305.13723) is accepted by **EMNLP 2023**!
 * \[**2023.06**\] Invited to serve as the Proceedings Chair of **[WSDM 2024](https://www.wsdm-conference.org/2024/)**.
 * \[**2023.05**\] One paper on [Full-Text Scientific Paper Classification](https://arxiv.org/abs/2306.14003) is accepted by **KDD 2023**!
@@ -19,7 +20,7 @@ News
 * \[**2023.04**\] One paper on [Story Discovery from News Streams](https://arxiv.org/abs/2304.04099) is accepted by **SIGIR 2023**!
 * \[**2023.01**\] One paper on [Event Chain Mining](https://dl.acm.org/doi/abs/10.1145/3543507.3583295) is accepted by **WWW 2023**!
 * \[**2023.01**\] [Our tutorial](https://yuzhimanhua.github.io/tutorials/edbt2023.html) is accepted by **EDBT 2023**!
-* \[**2022.10**\] One paper on [Seed-Guided Topic Discovery](https://arxiv.org/abs/2212.06002) is accepted by **WSDM 2023**!
+<!-- * \[**2022.10**\] One paper on [Seed-Guided Topic Discovery](https://arxiv.org/abs/2212.06002) is accepted by **WSDM 2023**! -->
 <!-- * \[**2022.05**\] One paper on [Unsupervised Key Event Detection](https://arxiv.org/abs/2206.04153) is accepted by **KDD 2022**! -->
 <!-- * \[**2022.04**\] Passed DAIS Qual exam and became a Ph.D. candidate. -->
 <!-- * \[**2022.01**\] One paper on [Topic Discovery with Pretrained LM](https://arxiv.org/abs/2202.04582) is accepted by **WWW 2022**! -->
