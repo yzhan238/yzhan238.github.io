@@ -13,7 +13,7 @@ Siru Ouyang, Jiaxin Huang, Pranav Pillai, **Yunyi Zhang**, Yu Zhang, Jiawei Han.
 [arXiv:2310.07795](https://arxiv.org/abs/2310.07795)
 
 * Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains
-\[Paper\]
+\[[Paper](https://arxiv.org/abs/2401.13129)\]
 \[[Code](https://github.com/yuzhimanhua/SEType)\]  
 Yu Zhang\*, **Yunyi Zhang**\*, Yanzhen Shen, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
