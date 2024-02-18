@@ -12,7 +12,7 @@ I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data 
 
 News
 ======
-* \[**2023.12**\] One paper on [Seed-Guided Entity Typing]() is accepted by **AAAI 2024**!
+* \[**2023.12**\] One paper on [Seed-Guided Entity Typing](https://arxiv.org/abs/2401.13129) is accepted by **AAAI 2024**!
 * \[**2023.10**\] One paper on [Weakly-Supervised Text Classification](https://arxiv.org/abs/2305.13723) is accepted by **EMNLP 2023**!
 * \[**2023.06**\] Invited to serve as the Proceedings Chair of **[WSDM 2024](https://www.wsdm-conference.org/2024/)**.
 * \[**2023.05**\] One paper on [Full-Text Scientific Paper Classification](https://arxiv.org/abs/2306.14003) is accepted by **KDD 2023**!
