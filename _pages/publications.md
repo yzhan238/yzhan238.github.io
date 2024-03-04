@@ -8,6 +8,14 @@ author_profile: true
 {% include base_path %}  
 (\*=Equal Contribution)
 
+* TELEClass: Taxonomy Enrichment and LLM-Enhanced Hierarchical Text Classification with Minimal Supervision  
+**Yunyi Zhang**, Ruozhen Yang\*, Xueqiang Xu\*, Jinfeng Xiao, Jiaming Shen, Jiawei Han.  
+[arXiv:2403.00165](https://arxiv.org/abs/2403.00165)
+
+* A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion  
+Yanzhen Shen, Yu Zhang, **Yunyi Zhang**, Jiawei Han.  
+[arXiv:2402.13405](https://arxiv.org/abs/2402.13405)
+
 * Ontology Enrichment for Effective Fine-grained Entity Typing  
 Siru Ouyang, Jiaxin Huang, Pranav Pillai, **Yunyi Zhang**, Yu Zhang, Jiawei Han.  
 [arXiv:2310.07795](https://arxiv.org/abs/2310.07795)
