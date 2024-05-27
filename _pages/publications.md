@@ -16,9 +16,13 @@ author_profile: true
 Yanzhen Shen, Yu Zhang, **Yunyi Zhang**, Jiawei Han.  
 [arXiv:2402.13405](https://arxiv.org/abs/2402.13405)
 
-* Ontology Enrichment for Effective Fine-grained Entity Typing  
+* Automated Mining of Structured Knowledge from Text in the Era of Large Language Models  
+**Yunyi Zhang**, Ming Zhong, Siru Ouyang, Yizhu Jiao, Sizhe Zhou, Linyi Ding, Jiawei Han.   
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2024. _(Tutorial)_
+
+* Ontology Enrichment for Effective Fine-grained Entity Typing \[[Paper](https://arxiv.org/abs/2310.07795)\]  
 Siru Ouyang, Jiaxin Huang, Pranav Pillai, **Yunyi Zhang**, Yu Zhang, Jiawei Han.  
-[arXiv:2310.07795](https://arxiv.org/abs/2310.07795)
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2024.
 
 * Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains
 \[[Paper](https://arxiv.org/abs/2401.13129)\]
