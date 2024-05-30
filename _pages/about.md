@@ -12,7 +12,7 @@ I am a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data 
 
 News
 ======
-* \[**2024.05**\] Our tutorial on [Automated Mining of Structured Knowledge from Text in the Era of Large Language Models]() is accepted by **KDD 2024**!
+* \[**2024.05**\] Our tutorial on [Automated Mining of Structured Knowledge from Text in the Era of Large Language Models](https://yzhan238.github.io/kdd24-tutorial/) is accepted by **KDD 2024**!
 * \[**2024.05**\] One paper on [Fine-Grained Entity Typing](https://arxiv.org/abs/2310.07795) is accepted by **KDD 2024**!
 * \[**2024.05**\] Start my Applied Scientist Intern at Amazon AWS in the bay area, Santa Clara, CA. 
 * \[**2023.12**\] One paper on [Seed-Guided Entity Typing](https://arxiv.org/abs/2401.13129) is accepted by **AAAI 2024**!
