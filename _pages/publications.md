@@ -16,7 +16,8 @@ author_profile: true
 Yanzhen Shen, Yu Zhang, **Yunyi Zhang**, Jiawei Han.  
 [arXiv:2402.13405](https://arxiv.org/abs/2402.13405)
 
-* Automated Mining of Structured Knowledge from Text in the Era of Large Language Models  
+* Automated Mining of Structured Knowledge from Text in the Era of Large Language Models
+\[[Website](https://yzhan238.github.io/kdd24-tutorial/)\]  
 **Yunyi Zhang**, Ming Zhong, Siru Ouyang, Yizhu Jiao, Sizhe Zhou, Linyi Ding, Jiawei Han.   
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2024. _(Tutorial)_
 
