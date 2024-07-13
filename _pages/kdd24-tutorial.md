@@ -46,7 +46,6 @@ Website: https://yzhan238.github.io/
 <br/>
 <br/>
 <br/>
-<br/>
 
 <img align="left" img src="/images/Ming_Zhong.jpg" alt="Ming Zhong" style="width: 200px;margin-right:50px;"/>**Ming Zhong**, Ph.D. student, Computer Science, UIUC. His research focuses on structuring explicit knowledge from massive corpora and manipulating implicit knowledge in foundation models. He has received the Amazon-Illinois Ph.D. Fellowship (2023).
 
@@ -54,13 +53,11 @@ Website: https://maszhongming.github.io/
 
 <br/>
 <br/>
-<br/>
 
 <img align="left" img src="/images/Siru_Ouyang.jpg" alt="Siru Ouyang" style="width: 200px;margin-right:50px;"/>**Siru Ouyang**, Ph.D. student, Computer Science, UIUC. Her research focuses on mining structured knowledge from massive text data. She has received the Richard T. Cheng Fellowship (2022).
 
 Website: https://ozyyshr.github.io/
 
-<br/>
 <br/>
 <br/>
 <br/>
@@ -77,7 +74,6 @@ Website: https://yzjiao.github.io/
 <br/>
 <br/>
 <br/>
-<br/>
 
 
 <img align="left" img src="/images/Sizhe_Zhou.jpeg" alt="Sizhe Zhou" style="width: 200px;margin-right:50px;"/>**Sizhe Zhou**, M.S. student, Computer Science, UIUC. His research focuses on mining and understanding structured knowledge from massive text data.
@@ -90,12 +86,10 @@ Website: https://yzjiao.github.io/
 <br/>
 <br/>
 <br/>
-<br/>
 
 
 <img align="left" img src="/images/Linyi_Ding.jpeg" alt="Linyi Ding" style="width: 200px;margin-right:50px;"/>**Linyi Ding**, M.S. student, Computer Science, UIUC. Her research focuses on weakly supervised knowledge graph construction and ontology construction from  unstructured data.
 
-<br/>
 <br/>
 <br/>
 <br/>
