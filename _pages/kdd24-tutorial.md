@@ -37,7 +37,7 @@ We will introduce the following topics in this tutorial:
 * Part III: Weakly-Supervised Text Classification \[[Slides]()\]
 * Part IV: Weakly-Supervised Information Extraction \[[Slides]()\]
 
-## Presenters
+## Authors
 
 <img align="left" img src="/images/yunyi-zhang.jpeg" alt="Yunyi Zhang" style="width: 200px;margin-right:50px;"/>**Yunyi Zhang**, Ph.D. student, Computer Science, UIUC. His research focuses on weakly supervised text mining, text classification, and taxonomy construction.
 
