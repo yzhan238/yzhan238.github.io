@@ -32,12 +32,12 @@ We will introduce the following topics in this tutorial:
 
 
 ## Slides
-* Introduction \[[Slides](/files/kdd24-tutorial/part0.pdf)\]
-* Part I: Language Foundation Models for Text Analysis \[[Slides](/files/kdd24-tutorial/part1.pdf)\]
-* Part II: Taxonomy Construction and Enrichment \[[Slides](/files/kdd24-tutorial/part2.pdf)\]
-* Part III: Weakly-Supervised Text Classification \[[Slides](/files/kdd24-tutorial/part3.pdf)\]
-* Part IV: Weakly-Supervised Information Extraction \[[Slides](/files/kdd24-tutorial/part4.pdf)\]
-* Conclusion \[[Slides](/files/kdd24-tutorial/part5.pdf)\]
+* Introduction \[[Slides](/files/kdd2024-tutorial/part0.pdf)\]
+* Part I: Language Foundation Models for Text Analysis \[[Slides](/files/kdd2024-tutorial/part1.pdf)\]
+* Part II: Taxonomy Construction and Enrichment \[[Slides](/files/kdd2024-tutorial/part2.pdf)\]
+* Part III: Weakly-Supervised Text Classification \[[Slides](/files/kdd2024-tutorial/part3.pdf)\]
+* Part IV: Weakly-Supervised Information Extraction \[[Slides](/files/kdd2024-tutorial/part4.pdf)\]
+* Conclusion \[[Slides](/files/kdd2024-tutorial/part5.pdf)\]
 
 ## Authors
 
