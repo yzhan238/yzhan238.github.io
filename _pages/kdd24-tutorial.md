@@ -9,7 +9,8 @@ KDD'24 Tutorial: Automated Mining of Structured Knowledge from Text in the Era o
 </h1>
 Yunyi Zhang, Ming Zhong, Siru Ouyang, Yizhu Jiao, Sizhe Zhou, Linyi Ding, Jiawei Han<br/>
 Computer Science Department, University of Illinois Urbana-Champaign<br/>
-Time: Aug 25, 2024 10:00 AM - 1:00 PM (CEST) / 1:00 AM - 4:00 AM (PDT)
+Time: Aug 25, 2024 10:00 AM - 1:00 PM (CEST)<br/>
+Location: 129-130, CCIB, Barcelona, Spain
 </center>
 
 ## Abstract
@@ -24,18 +25,19 @@ Therefore, it remains a challenge on automated mining of structured knowledge fr
 
 In this tutorial, we cover the recent advancements in mining structured knowledge using language models with very weak supervision. 
 We will introduce the following topics in this tutorial: 
-1. introduction to large language models, which serves as the foundation for recent text mining tasks;
-2. ontology construction, which automatically enriches an ontology from a massive corpus;
-3. weakly-supervised text classification in flat and hierarchical label space;
-4. weakly-supervised information extraction, which extracts entity and relation structures.
+1. Introduction to large language models, which serves as the foundation for recent text mining tasks;
+2. Ontology construction, which automatically enriches an ontology from a massive corpus;
+3. Weakly-supervised text classification in flat and hierarchical label space;
+4. Weakly-supervised information extraction, which extracts entity and relation structures.
 
 
 ## Slides
-* Introduction \[[Slides]()\]
-* Part I: Language Foundation Models for Text Analysis \[[Slides]()\]
-* Part II: Taxonomy Construction and Enrichment \[[Slides]()\]
-* Part III: Weakly-Supervised Text Classification \[[Slides]()\]
-* Part IV: Weakly-Supervised Information Extraction \[[Slides]()\]
+* Introduction \[[Slides](/files/kdd24-tutorial/part0.pdf)\]
+* Part I: Language Foundation Models for Text Analysis \[[Slides](/files/kdd24-tutorial/part1.pdf)\]
+* Part II: Taxonomy Construction and Enrichment \[[Slides](/files/kdd24-tutorial/part2.pdf)\]
+* Part III: Weakly-Supervised Text Classification \[[Slides](/files/kdd24-tutorial/part3.pdf)\]
+* Part IV: Weakly-Supervised Information Extraction \[[Slides](/files/kdd24-tutorial/part4.pdf)\]
+* Conclusion \[[Slides](/files/kdd24-tutorial/part5.pdf)\]
 
 ## Authors
 
