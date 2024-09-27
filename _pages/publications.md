@@ -9,12 +9,20 @@ author_profile: true
 (\*=Equal Contribution)
 
 * TELEClass: Taxonomy Enrichment and LLM-Enhanced Hierarchical Text Classification with Minimal Supervision  
-**Yunyi Zhang**, Ruozhen Yang\*, Xueqiang Xu\*, Jinfeng Xiao, Jiaming Shen, Jiawei Han.  
+**Yunyi Zhang**, Ruozhen Yang\*, Xueqiang Xu\*, Rui Li\*, Jinfeng Xiao, Jiaming Shen, Jiawei Han.  
 [arXiv:2403.00165](https://arxiv.org/abs/2403.00165)
 
 * A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion  
 Yanzhen Shen, Yu Zhang, **Yunyi Zhang**, Jiawei Han.  
 [arXiv:2402.13405](https://arxiv.org/abs/2402.13405)
+
+* Unsupervised Episode Detection for Large-Scale News Events  
+Priyanka Kargupta, **Yunyi Zhang**, Yizhu Jiao, Siru Ouyang, Jiawei Han.  
+[arXiv:2408.04873](https://arxiv.org/abs/2408.04873)
+
+* Taxonomy-guided Semantic Indexing for Academic Paper Search  
+SeongKu Kang, **Yunyi Zhang**, Pengcheng Jiang, Dongha Lee, Jiawei Han, Hwanjo Yu.  
+Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2024.
 
 * Automated Mining of Structured Knowledge from Text in the Era of Large Language Models
 \[[Website](https://yzhan238.github.io/kdd24-tutorial/)\]  
