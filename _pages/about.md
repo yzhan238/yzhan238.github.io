@@ -14,6 +14,7 @@ I am a final-year Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.ed
 
 News
 ======
+* \[**2024.10**\] I have passed my prelimenary exam!
 * \[**2024.09**\] One paper on [Semantic Indexing for Academic Paper Search]() is accepted by **EMNLP 2024**!
 * \[**2024.05**\] Our tutorial on [Automated Mining of Structured Knowledge from Text in the Era of Large Language Models](https://yzhan238.github.io/kdd24-tutorial/) is accepted by **KDD 2024**!
 * \[**2024.05**\] One paper on [Fine-Grained Entity Typing](https://arxiv.org/abs/2310.07795) is accepted by **KDD 2024**!
