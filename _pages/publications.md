@@ -20,6 +20,10 @@ Yanzhen Shen, Yu Zhang, **Yunyi Zhang**, Jiawei Han.
 Priyanka Kargupta, **Yunyi Zhang**, Yizhu Jiao, Siru Ouyang, Jiawei Han.  
 [arXiv:2408.04873](https://arxiv.org/abs/2408.04873)
 
+* ACER: Automatic Language Model Context Extension via Retrieval  
+Luyu Gao, **Yunyi Zhang**, Jamie Callan.  
+[arXiv:2410.09141](https://arxiv.org/abs/2410.09141)
+
 * Taxonomy-guided Semantic Indexing for Academic Paper Search  
 SeongKu Kang, **Yunyi Zhang**, Pengcheng Jiang, Dongha Lee, Jiawei Han, Hwanjo Yu.  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2024.
