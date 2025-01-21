@@ -10,10 +10,10 @@ redirect_from:
 
 I am a final-year Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data Mining Group ([DMG](http://dm1.cs.uiuc.edu/)) at University of Illinois Urbana-Champaign (UIUC). I obtained my M.S. in Computer Science and B.S. with a dual degree in Computer Science and Mathematics also at UIUC. My research interests lie in text mining, especially for mining structured knowledge from unstructured text data with minimal supervision. 
 
-**I am actively looking for faculty positions and industrial research positions for 2025!**
-
 News
 ======
+* \[**2025.01**\] One paper on [Hierarchical Text Classification with LLMs](https://arxiv.org/abs/2403.00165) is accepted by **WWW 2025**!
+* \[**2024.12**\] Two tutorials are accepted by **WWW 2025** and **SDM 2025**!
 * \[**2024.10**\] I have passed my prelimenary exam!
 * \[**2024.09**\] One paper on [Semantic Indexing for Academic Paper Search]() is accepted by **EMNLP 2024**!
 * \[**2024.05**\] Our tutorial on [Automated Mining of Structured Knowledge from Text in the Era of Large Language Models](https://yzhan238.github.io/kdd24-tutorial/) is accepted by **KDD 2024**!
