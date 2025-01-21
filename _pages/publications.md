@@ -8,14 +8,6 @@ author_profile: true
 {% include base_path %}  
 (\*=Equal Contribution)
 
-* TELEClass: Taxonomy Enrichment and LLM-Enhanced Hierarchical Text Classification with Minimal Supervision  
-**Yunyi Zhang**, Ruozhen Yang\*, Xueqiang Xu\*, Rui Li\*, Jinfeng Xiao, Jiaming Shen, Jiawei Han.  
-[arXiv:2403.00165](https://arxiv.org/abs/2403.00165)
-
-* A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion  
-Yanzhen Shen, Yu Zhang, **Yunyi Zhang**, Jiawei Han.  
-[arXiv:2402.13405](https://arxiv.org/abs/2402.13405)
-
 * Unsupervised Episode Detection for Large-Scale News Events  
 Priyanka Kargupta, **Yunyi Zhang**, Yizhu Jiao, Siru Ouyang, Jiawei Han.  
 [arXiv:2408.04873](https://arxiv.org/abs/2408.04873)
@@ -24,7 +16,27 @@ Priyanka Kargupta, **Yunyi Zhang**, Yizhu Jiao, Siru Ouyang, Jiawei Han.
 Luyu Gao, **Yunyi Zhang**, Jamie Callan.  
 [arXiv:2410.09141](https://arxiv.org/abs/2410.09141)
 
-* Taxonomy-guided Semantic Indexing for Academic Paper Search  
+* TELEClass: Taxonomy Enrichment and LLM-Enhanced Hierarchical Text Classification with Minimal Supervision
+\[[Paper](https://arxiv.org/abs/2403.00165)\]  
+**Yunyi Zhang**, Ruozhen Yang\*, Xueqiang Xu\*, Rui Li\*, Jinfeng Xiao, Jiaming Shen, Jiawei Han.  
+The ACM Web Conference (**WWW**), 2025.
+
+* Retrieval and Structuring Augmented Generation with Large Language Models for Web Applications  
+Yizhu Jiao, Siru Ouyang, Ming Zhong, **Yunyi Zhang**, Linyi Ding, Sizhe Zhou, Jiawei Han.  
+The ACM Web Conference (**WWW**), 2025. _(Tutorial)_
+
+* Integrating Textual and Graph Data: Advancing Knowledge Discovery with Semantic and Structural Insights  
+Bowen Jin, Yu Zhang, **Yunyi Zhang**, and Jiawei Han.  
+SIAM International Conference on Data Mining (**SDM**), 2025. _(Tutorial)_
+
+* A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion
+\[[Paper](https://arxiv.org/abs/2402.13405)\]  
+Yanzhen Shen, Yu Zhang, **Yunyi Zhang**, Jiawei Han.  
+The 2nd AI4Research Workshop (**AI4Research@AAAI**), 2025.
+
+* Taxonomy-guided Semantic Indexing for Academic Paper Search
+\[[Paper](https://arxiv.org/abs/2410.19218)\]
+\[[Code](https://github.com/SeongKu-Kang/TaxoIndex_EMNLP24)\]  
 SeongKu Kang, **Yunyi Zhang**, Pengcheng Jiang, Dongha Lee, Jiawei Han, Hwanjo Yu.  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2024.
 
