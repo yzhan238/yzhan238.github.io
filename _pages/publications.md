@@ -35,8 +35,7 @@ Yanzhen Shen, Yu Zhang, **Yunyi Zhang**, Jiawei Han.
 The 2nd AI4Research Workshop (**AI4Research@AAAI**), 2025.
 
 * Taxonomy-guided Semantic Indexing for Academic Paper Search
-\[[Paper](https://arxiv.org/abs/2410.19218)\]
-\[[Code](https://github.com/SeongKu-Kang/TaxoIndex_EMNLP24)\]  
+\[[Paper](https://arxiv.org/abs/2410.19218)\]  
 SeongKu Kang, **Yunyi Zhang**, Pengcheng Jiang, Dongha Lee, Jiawei Han, Hwanjo Yu.  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2024.
 
