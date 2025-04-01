@@ -16,8 +16,13 @@ Priyanka Kargupta, **Yunyi Zhang**, Yizhu Jiao, Siru Ouyang, Jiawei Han.
 Luyu Gao, **Yunyi Zhang**, Jamie Callan.  
 [arXiv:2410.09141](https://arxiv.org/abs/2410.09141)
 
+* RAS: Retrieval-And-Structuring for Knowledge-Intensive LLM Generation  
+Pengcheng Jiang, Lang Cao, Ruike Zhu, Minhao Jiang, Yunyi Zhang, Jimeng Sun, Jiawei Han.  
+[arXiv:2502.10996](https://arxiv.org/abs/2502.10996)
+
 * TELEClass: Taxonomy Enrichment and LLM-Enhanced Hierarchical Text Classification with Minimal Supervision
-\[[Paper](https://arxiv.org/abs/2403.00165)\]  
+\[[Paper](https://arxiv.org/abs/2403.00165)\]
+\[[Code](https://github.com/yzhan238/TELEClass)\]  
 **Yunyi Zhang**, Ruozhen Yang\*, Xueqiang Xu\*, Rui Li\*, Jinfeng Xiao, Jiaming Shen, Jiawei Han.  
 The ACM Web Conference (**WWW**), 2025.
 
@@ -35,7 +40,8 @@ Yanzhen Shen, Yu Zhang, **Yunyi Zhang**, Jiawei Han.
 The 2nd AI4Research Workshop (**AI4Research@AAAI**), 2025.
 
 * Taxonomy-guided Semantic Indexing for Academic Paper Search
-\[[Paper](https://arxiv.org/abs/2410.19218)\]  
+\[[Paper](https://arxiv.org/abs/2410.19218)\]
+\[[Code](https://aclanthology.org/attachments/2024.emnlp-main.407.software.zip) & [Data](https://aclanthology.org/attachments/2024.emnlp-main.407.data.zip)\]  
 SeongKu Kang, **Yunyi Zhang**, Pengcheng Jiang, Dongha Lee, Jiawei Han, Hwanjo Yu.  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2024.
 
