@@ -10,17 +10,20 @@ redirect_from:
 
 I am a final-year Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data Mining Group ([DMG](http://dm1.cs.uiuc.edu/)) at University of Illinois Urbana-Champaign (UIUC). I obtained my M.S. in Computer Science and B.S. with a dual degree in Computer Science and Mathematics also at UIUC. My research interests lie in text mining, especially for mining structured knowledge from unstructured text data with minimal supervision. 
 
+I am joining Amazon AWS as an Applied Scientist in summer 2025.
+
 News
 ======
+* \[**2025.05**\] Three papers are accepted by **ACL 2025** with 2 in main and 1 in findings: [Unsupevised Episode Detection](), [LLM-Based Multidimensional Taxonomy Construction](), and [Instruction Tuning for Taxonomy Construction]()!
 * \[**2025.01**\] One paper on [Hierarchical Text Classification with LLMs](https://arxiv.org/abs/2403.00165) is accepted by **WWW 2025**!
 * \[**2024.12**\] Two tutorials are accepted by **WWW 2025** and **SDM 2025**!
 * \[**2024.10**\] I have passed my prelimenary exam!
 * \[**2024.09**\] One paper on [Semantic Indexing for Academic Paper Search]() is accepted by **EMNLP 2024**!
 * \[**2024.05**\] Our tutorial on [Automated Mining of Structured Knowledge from Text in the Era of Large Language Models](https://yzhan238.github.io/kdd24-tutorial/) is accepted by **KDD 2024**!
 * \[**2024.05**\] One paper on [Fine-Grained Entity Typing](https://arxiv.org/abs/2310.07795) is accepted by **KDD 2024**!
-* \[**2024.05**\] Start my Applied Scientist Intern at Amazon AWS in the bay area, Santa Clara, CA. 
-* \[**2023.12**\] One paper on [Seed-Guided Entity Typing](https://arxiv.org/abs/2401.13129) is accepted by **AAAI 2024**!
-* \[**2023.10**\] One paper on [Weakly-Supervised Text Classification](https://arxiv.org/abs/2305.13723) is accepted by **EMNLP 2023**!
+<!-- * \[**2024.05**\] Start my Applied Scientist Intern at Amazon AWS in the bay area, Santa Clara, CA.  -->
+<!-- * \[**2023.12**\] One paper on [Seed-Guided Entity Typing](https://arxiv.org/abs/2401.13129) is accepted by **AAAI 2024**! -->
+<!-- * \[**2023.10**\] One paper on [Weakly-Supervised Text Classification](https://arxiv.org/abs/2305.13723) is accepted by **EMNLP 2023**! -->
 <!-- * \[**2023.06**\] Invited to serve as the Proceedings Chair of **[WSDM 2024](https://www.wsdm-conference.org/2024/)**. -->
 <!-- * \[**2023.05**\] One paper on [Full-Text Scientific Paper Classification](https://arxiv.org/abs/2306.14003) is accepted by **KDD 2023**! -->
 <!-- * \[**2023.05**\] Our tutorial on [Pre-trained Language Representations for Text Understanding](https://yumeng5.github.io/kdd23-tutorial/) is accepted by **KDD 2023**! -->
