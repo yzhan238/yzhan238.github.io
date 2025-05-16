@@ -8,10 +8,7 @@ author_profile: true
 {% include base_path %}  
 (\*=Equal Contribution)
 
-* Unsupervised Episode Detection for Large-Scale News Events  
-Priyanka Kargupta, **Yunyi Zhang**, Yizhu Jiao, Siru Ouyang, Jiawei Han.  
-[arXiv:2408.04873](https://arxiv.org/abs/2408.04873)
-
+### Preprints
 * ACER: Automatic Language Model Context Extension via Retrieval  
 Luyu Gao, **Yunyi Zhang**, Jamie Callan.  
 [arXiv:2410.09141](https://arxiv.org/abs/2410.09141)
@@ -19,6 +16,22 @@ Luyu Gao, **Yunyi Zhang**, Jamie Callan.
 * RAS: Retrieval-And-Structuring for Knowledge-Intensive LLM Generation  
 Pengcheng Jiang, Lang Cao, Ruike Zhu, Minhao Jiang, Yunyi Zhang, Jimeng Sun, Jiawei Han.  
 [arXiv:2502.10996](https://arxiv.org/abs/2502.10996)
+
+### 2025
+
+* TaxoAdapt: Aligning LLM-Based Multidimensional Taxonomy Construction to Evolving Research Corpora  
+Priyanka Kargupta, Nan Zhang, **Yunyi Zhang**, Rui Zhang, Prasenjit Mitra, Jiawei Han.  
+Annual Meeting of the Association for Computational Linguistics (**ACL**), 2025.
+
+* Synergizing Unsupervised Episode Detection with LLMs for Large-Scale News Events
+\[[Paper](https://arxiv.org/abs/2408.04873)\]  
+Priyanka Kargupta, **Yunyi Zhang**, Yizhu Jiao, Siru Ouyang, Jiawei Han.  
+Annual Meeting of the Association for Computational Linguistics (**ACL**), 2025.
+
+* A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion
+\[[Paper](https://arxiv.org/abs/2402.13405)\]  
+Yanzhen Shen, Yu Zhang, **Yunyi Zhang**, Jiawei Han.  
+Annual Meeting of the Association for Computational Linguistics (**ACL Findings**), 2025.
 
 * TELEClass: Taxonomy Enrichment and LLM-Enhanced Hierarchical Text Classification with Minimal Supervision
 \[[Paper](https://arxiv.org/abs/2403.00165)\]
@@ -34,10 +47,7 @@ The ACM Web Conference (**WWW**), 2025. _(Tutorial)_
 Bowen Jin, Yu Zhang, **Yunyi Zhang**, and Jiawei Han.  
 SIAM International Conference on Data Mining (**SDM**), 2025. _(Tutorial)_
 
-* A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion
-\[[Paper](https://arxiv.org/abs/2402.13405)\]  
-Yanzhen Shen, Yu Zhang, **Yunyi Zhang**, Jiawei Han.  
-The 2nd AI4Research Workshop (**AI4Research@AAAI**), 2025.
+### 2024
 
 * Taxonomy-guided Semantic Indexing for Academic Paper Search
 \[[Paper](https://arxiv.org/abs/2410.19218)\]
@@ -59,6 +69,8 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2024.
 \[[Code](https://github.com/yuzhimanhua/SEType)\]  
 Yu Zhang\*, **Yunyi Zhang**\*, Yanzhen Shen, Yu Deng, Lucian Popa, Larisa Shwartz, ChengXiang Zhai, and Jiawei Han.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
+
+### 2023
 
 * PIEClass: Weakly-Supervised Text Classification with Prompting and Noise-Robust Iterative Ensemble Training
 \[[Paper](https://arxiv.org/abs/2305.13723)\]
@@ -99,6 +111,8 @@ The International Conference on Extending Database Technology (**EDBT**), 2023. 
 Yu Zhang\*, **Yunyi Zhang**\*, Martin Michalski\*, Yucheng Jiang\*, Yu Meng\*, and Jiawei Han.  
 ACM International Conference on Web Search and Data Mining (**WSDM**), 2023.
 
+### 2022
+
 * Entity Set Co-Expansion in StackOverflow
 \[[Paper](https://arxiv.org/abs/2212.02271)\]  
 Yu Zhang\*, **Yunyi Zhang**\*, Yucheng Jiang, Martin Michalski, Yu Deng, Lucian Popa, ChengXiang Zhai, Jiawei Han.  
@@ -115,6 +129,8 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2022.
 \[[Code](https://github.com/yumeng5/TopClus)\]  
 Yu Meng, **Yunyi Zhang**, Jiaxin Huang, Yu Zhang and Jiawei Han.  
 The ACM Web Conference (**WWW**), 2022.
+
+### 2021
 
 * Corpus-based Open-Domain Event Type Induction
 \[[Paper](https://arxiv.org/abs/2109.03322)\]
@@ -133,6 +149,8 @@ Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2021
 \[Code: [GradCache](https://github.com/luyug/GradCache), [GC-DPR](https://github.com/luyug/GC-DPR)\]  
 Luyu Gao, **Yunyi Zhang**, Jiawei Han, Jamie Callan.  
 The 6th Workshop on Representation Learning for NLP (**RepL4NLP@ACL**), 2021.
+
+### 2020
 
 * Text Classification Using Label Names Only: A Language Model Self-Training Approach
 \[[Paper](https://arxiv.org/abs/2010.07245)\]
