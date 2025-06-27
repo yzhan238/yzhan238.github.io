@@ -9,27 +9,43 @@ author_profile: true
 (\*=Equal Contribution)
 
 ### Preprints
+* Scientific Paper Retrieval with LLM-Guided Semantic-Based Ranking  
+**Yunyi Zhang**, Ruozhen Yang, Siqi Jiao, SeongKu Kang, Jiawei Han.  
+[arXiv:2505.21815](https://arxiv.org/abs/2505.21815)
+
+* Zero-Shot Open-Schema Entity Structure Discovery  
+Xueqiang Xu, Jinfeng Xiao, James Barry, Mohab Elkaref, Jiaru Zou, Pengcheng Jiang, **Yunyi Zhang**, Max Giammona, Geeth de Mel, Jiawei Han.  
+[arXiv:2506.04458](https://arxiv.org/abs/2506.04458)
+
+* LogiCoL: Logically-Informed Contrastive Learning for Set-based Dense Retrieval  
+Yanzhen Shen, Sihao Chen, Xueqiang Xu, **Yunyi Zhang**, Chaitanya Malaviya, Dan Roth.  
+[arXiv:2505.19588](https://arxiv.org/abs/2505.19588)
+
 * ACER: Automatic Language Model Context Extension via Retrieval  
 Luyu Gao, **Yunyi Zhang**, Jamie Callan.  
 [arXiv:2410.09141](https://arxiv.org/abs/2410.09141)
 
 * RAS: Retrieval-And-Structuring for Knowledge-Intensive LLM Generation  
-Pengcheng Jiang, Lang Cao, Ruike Zhu, Minhao Jiang, Yunyi Zhang, Jimeng Sun, Jiawei Han.  
+Pengcheng Jiang, Lang Cao, Ruike Zhu, Minhao Jiang, **Yunyi Zhang**, Jimeng Sun, Jiawei Han.  
 [arXiv:2502.10996](https://arxiv.org/abs/2502.10996)
 
 ### 2025
 
-* TaxoAdapt: Aligning LLM-Based Multidimensional Taxonomy Construction to Evolving Research Corpora  
+* TaxoAdapt: Aligning LLM-Based Multidimensional Taxonomy Construction to Evolving Research Corpora
+\[[Paper](https://arxiv.org/abs/2506.10737)\]
+\[[Code](https://github.com/pkargupta/taxoadapt)\]  
 Priyanka Kargupta, Nan Zhang, **Yunyi Zhang**, Rui Zhang, Prasenjit Mitra, Jiawei Han.  
-Annual Meeting of the Association for Computational Linguistics (**ACL**), 2025.
+Annual Meeting of the Association for Computational Linguistics (**ACL Main**), 2025.
 
 * Synergizing Unsupervised Episode Detection with LLMs for Large-Scale News Events
-\[[Paper](https://arxiv.org/abs/2408.04873)\]  
+\[[Paper](https://arxiv.org/abs/2408.04873)\]
+\[[Code](https://github.com/pkargupta/epimine)\]  
 Priyanka Kargupta, **Yunyi Zhang**, Yizhu Jiao, Siru Ouyang, Jiawei Han.  
-Annual Meeting of the Association for Computational Linguistics (**ACL**), 2025.
+Annual Meeting of the Association for Computational Linguistics (**ACL Main**), 2025.
 
 * A Unified Taxonomy-Guided Instruction Tuning Framework for Entity Set Expansion and Taxonomy Expansion
-\[[Paper](https://arxiv.org/abs/2402.13405)\]  
+\[[Paper](https://arxiv.org/abs/2402.13405)\]
+\[[Code](https://github.com/yanzhen4/TaxoInstruct)\]  
 Yanzhen Shen, Yu Zhang, **Yunyi Zhang**, Jiawei Han.  
 Annual Meeting of the Association for Computational Linguistics (**ACL Findings**), 2025.
 
@@ -53,7 +69,7 @@ SIAM International Conference on Data Mining (**SDM**), 2025. _(Tutorial)_
 \[[Paper](https://arxiv.org/abs/2410.19218)\]
 \[[Code](https://aclanthology.org/attachments/2024.emnlp-main.407.software.zip) & [Data](https://aclanthology.org/attachments/2024.emnlp-main.407.data.zip)\]  
 SeongKu Kang, **Yunyi Zhang**, Pengcheng Jiang, Dongha Lee, Jiawei Han, Hwanjo Yu.  
-Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2024.
+Conference on Empirical Methods in Natural Language Processing (**EMNLP Main**), 2024.
 
 * Automated Mining of Structured Knowledge from Text in the Era of Large Language Models
 \[[Website](https://yzhan238.github.io/kdd24-tutorial/)\]  
@@ -76,7 +92,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
 \[[Paper](https://arxiv.org/abs/2305.13723)\]
 \[[Code](https://github.com/yzhan238/PIEClass)\]  
 **Yunyi Zhang**, Minhao Jiang, Yu Meng, Yu Zhang, Jiawei Han.  
-Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2023.
+Conference on Empirical Methods in Natural Language Processing (**EMNLP Main**), 2023.
 
 * Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers
 \[[Paper](https://arxiv.org/abs/2306.14003)]
