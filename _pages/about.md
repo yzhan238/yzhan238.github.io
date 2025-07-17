@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data Mining Group ([DMG](http://dm1.cs.uiuc.edu/)) at University of Illinois Urbana-Champaign (UIUC). I obtained my M.S. in Computer Science and B.S. with a dual degree in Computer Science and Mathematics also at UIUC. My research interests lie in text mining, especially for mining structured knowledge from unstructured text data with minimal supervision. 
-
-I am joining Amazon AWS as an Applied Scientist in summer 2025.
+I am an Applied Scientist at Amazon AWS, working in the Bedrock Core Science team. I was a Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data Mining Group ([DMG](http://dm1.cs.uiuc.edu/)) at University of Illinois Urbana-Champaign (UIUC). I obtained my M.S. in Computer Science and B.S. with a dual degree in Computer Science and Mathematics also at UIUC. My research interests lie in text mining, especially for mining structured knowledge from unstructured text data with minimal supervision. 
 
 News
 ======
+* \[**2025.07**\] I have passed my Ph.D. final defense! Many thanks to my thesis committee: Prof. Jiawei Han, Prof. Tarek Abdelzaher, Prof. Hanghang Tong, and Dr. Xin Luna Dong.
 * \[**2025.05**\] Three papers are accepted by **ACL 2025** with 2 in main and 1 in findings: [Unsupevised Episode Detection](), [LLM-Based Multidimensional Taxonomy Construction](), and [Instruction Tuning for Taxonomy Construction]()!
 * \[**2025.01**\] One paper on [Hierarchical Text Classification with LLMs](https://arxiv.org/abs/2403.00165) is accepted by **WWW 2025**!
 * \[**2024.12**\] Two tutorials are accepted by **WWW 2025** and **SDM 2025**!
@@ -40,7 +39,7 @@ News
 
 Education
 ======
-* Ph.D. (2021-Current) in Computer Science, University of Illinois Urbana-Champaign  
+* Ph.D. (2021-2025) in Computer Science, University of Illinois Urbana-Champaign  
 Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)
 
 * M.S. (2019-2021) in Computer Science, University of Illinois Urbana-Champaign
@@ -52,4 +51,4 @@ Graduated with Highest Honor & [Bronze Tablet](https://digital.library.illinois.
 
 Contact
 ======
-* Email: yzhan238\[at\]illinois\[dot\]edu
+* Email: zhangyy114\[at\]gmail\[dot\]com
