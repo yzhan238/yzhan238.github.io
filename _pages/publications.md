@@ -9,17 +9,10 @@ author_profile: true
 (\*=Equal Contribution)
 
 ### Preprints
-* Scientific Paper Retrieval with LLM-Guided Semantic-Based Ranking  
-**Yunyi Zhang**, Ruozhen Yang, Siqi Jiao, SeongKu Kang, Jiawei Han.  
-[arXiv:2505.21815](https://arxiv.org/abs/2505.21815)
 
 * Zero-Shot Open-Schema Entity Structure Discovery  
 Xueqiang Xu, Jinfeng Xiao, James Barry, Mohab Elkaref, Jiaru Zou, Pengcheng Jiang, **Yunyi Zhang**, Max Giammona, Geeth de Mel, Jiawei Han.  
 [arXiv:2506.04458](https://arxiv.org/abs/2506.04458)
-
-* LogiCoL: Logically-Informed Contrastive Learning for Set-based Dense Retrieval  
-Yanzhen Shen, Sihao Chen, Xueqiang Xu, **Yunyi Zhang**, Chaitanya Malaviya, Dan Roth.  
-[arXiv:2505.19588](https://arxiv.org/abs/2505.19588)
 
 * ACER: Automatic Language Model Context Extension via Retrieval  
 Luyu Gao, **Yunyi Zhang**, Jamie Callan.  
@@ -30,6 +23,16 @@ Pengcheng Jiang, Lang Cao, Ruike Zhu, Minhao Jiang, **Yunyi Zhang**, Jimeng Sun,
 [arXiv:2502.10996](https://arxiv.org/abs/2502.10996)
 
 ### 2025
+
+* Scientific Paper Retrieval with LLM-Guided Semantic-Based Ranking
+\[[Paper](https://arxiv.org/abs/2505.21815)\]  
+**Yunyi Zhang**, Ruozhen Yang, Siqi Jiao, SeongKu Kang, Jiawei Han.  
+Conference on Empirical Methods in Natural Language Processing (**EMNLP Findings**), 2025.
+
+* LogiCoL: Logically-Informed Contrastive Learning for Set-based Dense Retrieval
+\[[Paper](https://arxiv.org/abs/2505.19588)\]  
+Yanzhen Shen, Sihao Chen, Xueqiang Xu, **Yunyi Zhang**, Chaitanya Malaviya, Dan Roth.  
+Conference on Empirical Methods in Natural Language Processing (**EMNLP Main**), 2025.
 
 * TaxoAdapt: Aligning LLM-Based Multidimensional Taxonomy Construction to Evolving Research Corpora
 \[[Paper](https://arxiv.org/abs/2506.10737)\]
