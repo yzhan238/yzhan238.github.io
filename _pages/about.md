@@ -13,7 +13,7 @@ I am an Applied Scientist at Amazon AWS, working in the Bedrock Core Science tea
 News
 ======
 
-* \[**2025.08**\] Two papers are accepted by **EMNLP 2025** on [Scientific Paper Search](https://arxiv.org/abs/2505.21815) and [Logically-Informed Rerieval](https://arxiv.org/abs/2505.19588).
+* \[**2025.08**\] Two papers are accepted by **EMNLP 2025** on [LLM-Guided Scientific Paper Retrieval](https://arxiv.org/abs/2505.21815) and [Logically-Informed Retrieval](https://arxiv.org/abs/2505.19588).
 * \[**2025.07**\] I have passed my Ph.D. final defense! Many thanks to my thesis committee: Prof. Jiawei Han, Prof. Tarek Abdelzaher, Prof. Hanghang Tong, and Dr. Xin Luna Dong.
 * \[**2025.05**\] Three papers are accepted by **ACL 2025** with 2 in main and 1 in findings: [Unsupevised Episode Detection](https://arxiv.org/abs/2408.04873), [LLM-Based Multidimensional Taxonomy Construction](https://arxiv.org/abs/2408.04873), and [Instruction Tuning for Taxonomy Construction](https://arxiv.org/abs/2402.13405)!
 * \[**2025.01**\] One paper on [Hierarchical Text Classification with LLMs](https://arxiv.org/abs/2403.00165) is accepted by **WWW 2025**!
