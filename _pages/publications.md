@@ -10,22 +10,26 @@ author_profile: true
 
 ### Preprints
 
-* Zero-Shot Open-Schema Entity Structure Discovery  
-Xueqiang Xu, Jinfeng Xiao, James Barry, Mohab Elkaref, Jiaru Zou, Pengcheng Jiang, **Yunyi Zhang**, Max Giammona, Geeth de Mel, Jiawei Han.  
-[arXiv:2506.04458](https://arxiv.org/abs/2506.04458)
-
-* ACER: Automatic Language Model Context Extension via Retrieval  
-Luyu Gao, **Yunyi Zhang**, Jamie Callan.  
-[arXiv:2410.09141](https://arxiv.org/abs/2410.09141)
-
 * RAS: Retrieval-And-Structuring for Knowledge-Intensive LLM Generation  
 Pengcheng Jiang, Lang Cao, Ruike Zhu, Minhao Jiang, **Yunyi Zhang**, Jimeng Sun, Jiawei Han.  
 [arXiv:2502.10996](https://arxiv.org/abs/2502.10996)
 
+* The Kinetics of Reasoning: How Chain-of-Thought Shapes Learning in Transformers?  
+Zihan Pengmei, Costas Mavromatis, Zhengyuan Shen, **Yunyi Zhang**, Vassilis N. Ioannidis, Huzefa Rangwala.  
+[arXiv:2510.25791](https://arxiv.org/abs/2510.25791)
+
+### 2026
+
+* Zero-Shot Open-Schema Entity Structure Discovery
+\[[Paper](https://arxiv.org/abs/2506.04458)\]  
+Xueqiang Xu, Jinfeng Xiao, James Barry, Mohab Elkaref, Jiaru Zou, Pengcheng Jiang, **Yunyi Zhang**, Max Giammona, Geeth de Mel, Jiawei Han.
+Conference of the European Chapter of the Association for Computational Linguistics (**EACL**), 2026.
+
 ### 2025
 
 * Scientific Paper Retrieval with LLM-Guided Semantic-Based Ranking
-\[[Paper](https://arxiv.org/abs/2505.21815)\]  
+\[[Paper](https://arxiv.org/abs/2505.21815)\]
+\[[Code](https://github.com/yzhan238/SemRank)\]  
 **Yunyi Zhang**, Ruozhen Yang, Siqi Jiao, SeongKu Kang, Jiawei Han.  
 Conference on Empirical Methods in Natural Language Processing (**EMNLP Findings**), 2025.
 
