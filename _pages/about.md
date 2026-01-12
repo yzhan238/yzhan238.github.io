@@ -12,14 +12,14 @@ I am an Applied Scientist at Amazon AWS, working in the Bedrock Core Science tea
 
 News
 ======
-
+* \[**2026.01**\] One paper on [Open-Schema Entity Structure Discovery](https://arxiv.org/abs/2506.04458) is accepted by **EACL 2026**!
 * \[**2025.08**\] Two papers are accepted by **EMNLP 2025** on [LLM-Guided Scientific Paper Retrieval](https://arxiv.org/abs/2505.21815) and [Logically-Informed Retrieval](https://arxiv.org/abs/2505.19588).
 * \[**2025.07**\] I have passed my Ph.D. final defense! Many thanks to my thesis committee: Prof. Jiawei Han, Prof. Tarek Abdelzaher, Prof. Hanghang Tong, and Dr. Xin Luna Dong.
 * \[**2025.05**\] Three papers are accepted by **ACL 2025** with 2 in main and 1 in findings: [Unsupevised Episode Detection](https://arxiv.org/abs/2408.04873), [LLM-Based Multidimensional Taxonomy Construction](https://arxiv.org/abs/2506.10737), and [Instruction Tuning for Taxonomy Construction](https://arxiv.org/abs/2402.13405)!
 * \[**2025.01**\] One paper on [Hierarchical Text Classification with LLMs](https://arxiv.org/abs/2403.00165) is accepted by **WWW 2025**!
-* \[**2024.12**\] Two tutorials are accepted by **WWW 2025** and **SDM 2025**!
-* \[**2024.10**\] I have passed my prelimenary exam!
-* \[**2024.09**\] One paper on [Semantic Indexing for Academic Paper Search](https://arxiv.org/abs/2410.19218) is accepted by **EMNLP 2024**!
+<!-- * \[**2024.12**\] Two tutorials are accepted by **WWW 2025** and **SDM 2025**!  -->
+<!-- * \[**2024.10**\] I have passed my prelimenary exam!  -->
+<!-- * \[**2024.09**\] One paper on [Semantic Indexing for Academic Paper Search](https://arxiv.org/abs/2410.19218) is accepted by **EMNLP 2024**!  -->
 <!-- * \[**2024.05**\] Our tutorial on [Automated Mining of Structured Knowledge from Text in the Era of Large Language Models](https://yzhan238.github.io/kdd24-tutorial/) is accepted by **KDD 2024**!  -->
 <!-- * \[**2024.05**\] One paper on [Fine-Grained Entity Typing](https://arxiv.org/abs/2310.07795) is accepted by **KDD 2024**!  -->
 <!-- * \[**2024.05**\] Start my Applied Scientist Intern at Amazon AWS in the bay area, Santa Clara, CA.  -->
