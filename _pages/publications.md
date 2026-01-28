@@ -10,15 +10,20 @@ author_profile: true
 
 ### Preprints
 
-* RAS: Retrieval-And-Structuring for Knowledge-Intensive LLM Generation  
-Pengcheng Jiang, Lang Cao, Ruike Zhu, Minhao Jiang, **Yunyi Zhang**, Jimeng Sun, Jiawei Han.  
-[arXiv:2502.10996](https://arxiv.org/abs/2502.10996)
-
 * The Kinetics of Reasoning: How Chain-of-Thought Shapes Learning in Transformers?  
 Zihan Pengmei, Costas Mavromatis, Zhengyuan Shen, **Yunyi Zhang**, Vassilis N. Ioannidis, Huzefa Rangwala.  
 [arXiv:2510.25791](https://arxiv.org/abs/2510.25791)
 
+* Grounding Agent Memory in Contextual Intent  
+Ruozhen Yang, Yucheng Jiang, Yueqi Jiang, Priyanka Kargupta, **Yunyi Zhang**, Jiawei Han.  
+[arXiv:2601.10702](https://arxiv.org/abs/2601.10702)
+
 ### 2026
+
+* RAS: Retrieval-And-Structuring for Knowledge-Intensive LLM Generation
+\[[Paper](https://arxiv.org/abs/2502.10996)]  
+Pengcheng Jiang, Lang Cao, Ruike Zhu, Minhao Jiang, **Yunyi Zhang**, Jimeng Sun, Jiawei Han.  
+The International Conference on Learning Representations (**ICLR**), 2026.
 
 * Zero-Shot Open-Schema Entity Structure Discovery
 \[[Paper](https://arxiv.org/abs/2506.04458)\]  
