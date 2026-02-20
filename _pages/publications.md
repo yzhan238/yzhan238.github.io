@@ -14,6 +14,10 @@ author_profile: true
 Zihan Pengmei, Costas Mavromatis, Zhengyuan Shen, **Yunyi Zhang**, Vassilis N. Ioannidis, Huzefa Rangwala.  
 [arXiv:2510.25791](https://arxiv.org/abs/2510.25791)
 
+* Train Less, Learn More: Adaptive Efficient Rollout Optimization for Group-Based Reinforcement Learning  
+Zhi Zhang, Zhen Han, Costas Mavromatis, Qi Zhu, **Yunyi Zhang**, Sheng Guan, Dingmin Wang, Xiong Zhou, Shuai Wang, Soji Adeshina, Vassilis Ioannidis, Huzefa Rangwala  
+[arXiv:2602.14338](https://arxiv.org/abs/2602.14338)
+
 * Grounding Agent Memory in Contextual Intent  
 Ruozhen Yang, Yucheng Jiang, Yueqi Jiang, Priyanka Kargupta, **Yunyi Zhang**, Jiawei Han.  
 [arXiv:2601.10702](https://arxiv.org/abs/2601.10702)
