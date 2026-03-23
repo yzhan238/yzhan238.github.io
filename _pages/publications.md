@@ -10,9 +10,9 @@ author_profile: true
 
 ### Preprints
 
-* The Kinetics of Reasoning: How Chain-of-Thought Shapes Learning in Transformers?  
-Zihan Pengmei, Costas Mavromatis, Zhengyuan Shen, **Yunyi Zhang**, Vassilis N. Ioannidis, Huzefa Rangwala.  
-[arXiv:2510.25791](https://arxiv.org/abs/2510.25791)
+* Scalable Prompt Routing via Fine-Grained Latent Task Discovery  
+**Yunyi Zhang**, Soji Adeshina, Sheng Guan, Ashwin Ganesh, Zhen Han, Vassilis N. Ioannidis, Huzefa Rangwala, George Karypis.
+[arXiv:2603.19415](https://arxiv.org/abs/2603.19415)
 
 * Train Less, Learn More: Adaptive Efficient Rollout Optimization for Group-Based Reinforcement Learning  
 Zhi Zhang, Zhen Han, Costas Mavromatis, Qi Zhu, **Yunyi Zhang**, Sheng Guan, Dingmin Wang, Xiong Zhou, Shuai Wang, Soji Adeshina, Vassilis Ioannidis, Huzefa Rangwala  
@@ -21,6 +21,10 @@ Zhi Zhang, Zhen Han, Costas Mavromatis, Qi Zhu, **Yunyi Zhang**, Sheng Guan, Din
 * Grounding Agent Memory in Contextual Intent  
 Ruozhen Yang, Yucheng Jiang, Yueqi Jiang, Priyanka Kargupta, **Yunyi Zhang**, Jiawei Han.  
 [arXiv:2601.10702](https://arxiv.org/abs/2601.10702)
+
+* The Kinetics of Reasoning: How Chain-of-Thought Shapes Learning in Transformers?  
+Zihan Pengmei, Costas Mavromatis, Zhengyuan Shen, **Yunyi Zhang**, Vassilis N. Ioannidis, Huzefa Rangwala.  
+[arXiv:2510.25791](https://arxiv.org/abs/2510.25791)
 
 ### 2026
 
