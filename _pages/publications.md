@@ -11,7 +11,7 @@ author_profile: true
 ### Preprints
 
 * Scalable Prompt Routing via Fine-Grained Latent Task Discovery  
-**Yunyi Zhang**, Soji Adeshina, Sheng Guan, Ashwin Ganesh, Zhen Han, Vassilis N. Ioannidis, Huzefa Rangwala, George Karypis.
+**Yunyi Zhang**, Soji Adeshina, Sheng Guan, Ashwin Ganesh, Zhen Han, Vassilis N. Ioannidis, Huzefa Rangwala, George Karypis.  
 [arXiv:2603.19415](https://arxiv.org/abs/2603.19415)
 
 * Train Less, Learn More: Adaptive Efficient Rollout Optimization for Group-Based Reinforcement Learning  
