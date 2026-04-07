@@ -18,18 +18,21 @@ author_profile: true
 Zhi Zhang, Zhen Han, Costas Mavromatis, Qi Zhu, **Yunyi Zhang**, Sheng Guan, Dingmin Wang, Xiong Zhou, Shuai Wang, Soji Adeshina, Vassilis Ioannidis, Huzefa Rangwala  
 [arXiv:2602.14338](https://arxiv.org/abs/2602.14338)
 
-* Grounding Agent Memory in Contextual Intent  
-Ruozhen Yang, Yucheng Jiang, Yueqi Jiang, Priyanka Kargupta, **Yunyi Zhang**, Jiawei Han.  
-[arXiv:2601.10702](https://arxiv.org/abs/2601.10702)
-
 * The Kinetics of Reasoning: How Chain-of-Thought Shapes Learning in Transformers?  
 Zihan Pengmei, Costas Mavromatis, Zhengyuan Shen, **Yunyi Zhang**, Vassilis N. Ioannidis, Huzefa Rangwala.  
 [arXiv:2510.25791](https://arxiv.org/abs/2510.25791)
 
 ### 2026
 
+* Grounding Agent Memory in Contextual Intent
+\[[Paper](https://arxiv.org/abs/2601.10702)\]
+\[[Code](https://github.com/Seattleyrz/contextual-intent)\]  
+Ruozhen Yang, Yucheng Jiang, Yueqi Jiang, Priyanka Kargupta, **Yunyi Zhang**, Jiawei Han.  
+Annual Meeting of the Association for Computational Linguistics (**ACL Findings**), 2026.
+
 * RAS: Retrieval-And-Structuring for Knowledge-Intensive LLM Generation
-\[[Paper](https://arxiv.org/abs/2502.10996)]  
+\[[Paper](https://arxiv.org/abs/2502.10996)\]
+\[[Code](https://github.com/pat-jj/RAS)\]  
 Pengcheng Jiang, Lang Cao, Ruike Zhu, Minhao Jiang, **Yunyi Zhang**, Jimeng Sun, Jiawei Han.  
 The International Conference on Learning Representations (**ICLR**), 2026.
 
